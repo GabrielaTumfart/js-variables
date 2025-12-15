@@ -13,7 +13,9 @@ console.log = (myName);
 
 const number = 6;
 const text = "Jessica";
-const bool = (6 != "Jessica");
+const bool = true;
+
+console.log = (number + text + bool);
 
 
 
