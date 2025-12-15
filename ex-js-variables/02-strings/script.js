@@ -2,7 +2,7 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-const myNme = "Gabriela";
+const myName = "Gabriela";
 console.log = (myName);
 
 
@@ -10,6 +10,12 @@ console.log = (myName);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+
+const number = 6;
+const text = "Jessica";
+const bool = (6 != "Jessica")
+
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
